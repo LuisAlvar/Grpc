@@ -1,4 +1,4 @@
-﻿using BasicGrpcClient;
+﻿using Greeter;
 using Grpc.Net.Client;
 
 // The port number(5001) must match the port of the gRPC server.
